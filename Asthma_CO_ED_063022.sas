@@ -1,4 +1,4 @@
-libname data "C:\Users\kimy89\Documents\Data\CHIA\Final_SAS_Files";
+libname data "C:\Users\...\Final_SAS_Files";
 
 
 
