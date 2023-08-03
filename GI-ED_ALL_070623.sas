@@ -1,6 +1,6 @@
 
-libname data "C:\Users\kimy89\Documents\Data\CHIA\Final_SAS_Files";
-libname dir "C:\Users\kimy89\Documents\Data\GI-ED";
+libname data "C:\Users\...\Data\CHIA\Final_SAS_Files";
+libname dir "C:\Users\...\Documents\Data\GI-ED";
 
 /*Static Parameters Start*/
 %let cannabis9 = '30430' '30431' '30433' '30520' '30521' '30522' '30523';
